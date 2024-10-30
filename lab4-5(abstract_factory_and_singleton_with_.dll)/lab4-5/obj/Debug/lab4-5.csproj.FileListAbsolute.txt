@@ -1,0 +1,12 @@
+C:\Users\Данила\source\repos\lab4-5\lab4-5\bin\Debug\lab4-5.exe.config
+C:\Users\Данила\source\repos\lab4-5\lab4-5\bin\Debug\lab4-5.exe
+C:\Users\Данила\source\repos\lab4-5\lab4-5\bin\Debug\lab4-5.pdb
+C:\Users\Данила\source\repos\lab4-5\lab4-5\bin\Debug\ClassLibrary3.dll
+C:\Users\Данила\source\repos\lab4-5\lab4-5\bin\Debug\ClassLibrary3.pdb
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.csproj.AssemblyReference.cache
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4_5.Properties.Resources.resources
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.csproj.GenerateResource.cache
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.csproj.CopyComplete
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.exe
+C:\Users\Данила\source\repos\lab4-5\lab4-5\obj\Debug\lab4-5.pdb
